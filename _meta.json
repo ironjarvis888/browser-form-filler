@@ -1,0 +1,7 @@
+{
+  "slug": "browser-form-filler",
+  "version": "1.0.0",
+  "description": "網頁表單自動填寫",
+  "tags": ["browser", "automation", "form"],
+  "author": "Tony Stark"
+}
